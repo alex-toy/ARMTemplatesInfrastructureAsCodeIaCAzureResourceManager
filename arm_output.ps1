@@ -1,0 +1,1 @@
+az deployment group create --resource-group alexeirg --template-file 'arm_output.json'

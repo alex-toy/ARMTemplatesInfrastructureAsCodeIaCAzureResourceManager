@@ -1,0 +1,23 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "resources": [],
+    "outputs": {
+        "RG" : {
+            "value": "[resourceGroup().id]",
+            "type" : "string"
+        },
+        "unique_string_RG" : {
+            "value": "[uniqueString(resourceGroup().id)]",
+            "type" : "string"
+        },
+        "deployment" : {
+            "value": "[deployment().name]",
+            "type" : "string"
+        },
+        "unique_string_deployment" : {
+            "value": "[uniqueString(deployment().name)]",
+            "type" : "string"
+        }
+    }
+}
