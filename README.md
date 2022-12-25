@@ -14,3 +14,9 @@ Azure Resource Manager Templates provide simple and unified way to create and ma
 <img src="/pictures/template_editor.png" title="template editor"  width="800">
 <img src="/pictures/storage_account_stage.png" title="storage account stage"  width="600">
 
+## Dependencies
+
+<img src="/pictures/container_depends_on_storage_account.png" title="container depends on storage account"  width="800">
+<img src="/pictures/webapp.png" title="webapp"  width="800">
+<img src="/pictures/arm_viewer.png" title="arm viewer"  width="800">
+

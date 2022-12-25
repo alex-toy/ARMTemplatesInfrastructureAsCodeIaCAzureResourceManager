@@ -2,10 +2,13 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "storageName" : {
+        "storageAccountName" : {
             "type" : "string",
             "minLength": 3,
-            "maxLength": 30
+            "maxLength": 30,
+            "metadata": {
+                "description": "unique DNS of storage account"
+            }
         },
         "skuName" : {
             "type" : "string",
@@ -31,7 +34,7 @@
     },
     "functions": [],
     "variables": {
-        "accountName": "[concat(parameters('storageName'), parameters('stage'))]"
+        "accountName": "[concat(parameters('storageAccountName'), parameters('stage'))]"
     },
     "resources": [
         {
