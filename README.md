@@ -47,3 +47,18 @@ Choose a blank template
 Add a webapp and app service plan as resources
 <img src="/pictures/webapp_resource.png" title="webapp resource"  width="800">
 
+Add copy files
+<img src="/pictures/copy_files.png" title="copy files"  width="800">
+<img src="/pictures/copy_files2.png" title="copy files"  width="800">
+
+Add publish artifact
+<img src="/pictures/publish_artifact.png" title="publish artifact"  width="800">
+
+Result
+<img src="/pictures/copy_file_result.png" title="copy file result"  width="800">
+<img src="/pictures/artifact_result.png" title="artifact result"  width="800">
+
+New release
+<img src="/pictures/release.png" title="release"  width="800">
+<img src="/pictures/dev_stage.png" title="dev stage"  width="800">
+
