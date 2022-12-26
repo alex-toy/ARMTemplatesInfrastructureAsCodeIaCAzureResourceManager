@@ -1,0 +1,1 @@
+C:\source\AzureDevops\ARMTemplatesInfrastructureAsCodeIaCAzureResourceManager\pipeline\ARMTemplates\ArmTemplates.Templates\obj\Debug\ArmTemplates.Templates.deployproj.CoreCompileInputs.cache
