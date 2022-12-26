@@ -36,3 +36,14 @@ Azure Resource Manager Templates provide simple and unified way to create and ma
 
 <img src="/pictures/output.png" title="output"  width="800">
 
+## Pipelines
+
+Create an **Azure Resource Group** called *ArmTemplates.Templates*
+<img src="/pictures/azure_resource_group.png" title="azure resource group"  width="800">
+
+Choose a blank template
+<img src="/pictures/blank_template.png" title="blank template"  width="800">
+
+Add a webapp and app service plan as resources
+<img src="/pictures/webapp_resource.png" title="webapp resource"  width="800">
+
