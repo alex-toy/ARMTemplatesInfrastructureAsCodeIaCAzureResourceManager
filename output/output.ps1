@@ -5,8 +5,8 @@ az group create `
 
 az deployment group create `
     --resource-group alexeirg `
-    --template-file 'containers\storage_counter.json' `
+    --template-file 'output\output.json' `
     --parameters `
-        containerCount=4 `
+        storageCount=3 `
 
 

@@ -32,3 +32,7 @@ Azure Resource Manager Templates provide simple and unified way to create and ma
 
 <img src="/pictures/containers.png" title="containers"  width="800">
 
+## Outputs
+
+<img src="/pictures/output.png" title="output"  width="800">
+
