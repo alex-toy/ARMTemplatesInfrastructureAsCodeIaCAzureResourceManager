@@ -24,3 +24,7 @@ Azure Resource Manager Templates provide simple and unified way to create and ma
 
 <img src="/pictures/loop_array.png" title="loop array"  width="800">
 
+## Loops
+
+<img src="/pictures/data_factory.png" title="data_factory"  width="800">
+
